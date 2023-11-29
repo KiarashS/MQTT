@@ -1,4 +1,4 @@
-# How to use MQTT in Python (Paho Python Client)
+# How to use MQTT in Python
 ---
 Run `publish.ipynb` and `subscribe.ipynb` simultaneously.
 
